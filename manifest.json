@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Open Pesticide",
+    "description": "Outlines each element on the page to help you visualize their dimensions and overcome those annoying CSS layout issues. https://github.com/MatthewBaa/Open_Pesticide",
+    "version": "1.3",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+    
+    "icons": {
+        "64": "icons/logo-64.png"
+    },
+
+    "browser_action": {
+        "default_icon": {
+            "16": "icons/logo-16.png",
+            "32": "icons/logo-32.png"
+        }
+    },
+
+    "permissions": [
+        "activeTab"
+    ]
+}
