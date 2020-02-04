@@ -8,4 +8,4 @@ Available for free at the official Firefox add-ons page: https://addons.mozilla.
 
 ## Screenshots
 
-!["Screenshot of extension in use"](https://raw.githubusercontent.com/matthewbaa/open-pesticide/master/images/screen1.png "Screenshot of extension in use.")
+!["Screenshot of extension in use"](https://raw.githubusercontent.com/matthewbaa/open-pesticide/master/images/preview.png "Screenshot of extension in use.")
